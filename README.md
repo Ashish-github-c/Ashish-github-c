@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and machine learning.
 - 🌱 I’m currently learning machine learning.
 - 📫 How to reach me @poddar.ashishkmr@gmail.com
-- ⚡ Eternal optimism :)
+- ⚡ I believe in Eternal optimism :)
 
 <!---
 Ashish-github-c/Ashish-github-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
